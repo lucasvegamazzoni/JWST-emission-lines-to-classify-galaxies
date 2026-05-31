@@ -21,5 +21,5 @@ or an active galactic nucleus (AGN).
 Python, matplotlib, numpy, astropy
 
 ## Results
-See `example_plot.pdf` for sample output showing galaxy classification
+See `JWST-emission-lines-to-classify-galaxies.pdf` for sample output showing galaxy classification
 on the BPT diagram.
